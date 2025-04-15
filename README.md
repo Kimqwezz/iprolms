@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://iproLMS.example.com" target="_blank">
-    <img src="https://via.placeholder.com/400x200?text=IproLMS+Logo" width="400" alt="IproLMS Логотип">
+    <img src="public/images/logo.png" width="400" alt="IproLMS Логотип">
   </a>
 </p>
 
